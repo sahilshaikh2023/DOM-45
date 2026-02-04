@@ -1,0 +1,22 @@
+button {
+    padding: 14px 28px;
+    font-size: 18px;
+    font-weight: 600;
+    color: #ffffff;
+    background: #667eea;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    box-shadow: 0 6px 15px rgba(0, 0, 0, 0.2);
+}
+
+button:hover {
+    background: #5a67d8;
+}
+
+button:active {
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+}
+*{
+    font-family: monospace;
+}
